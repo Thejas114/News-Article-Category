@@ -1,0 +1,13 @@
+Logistic Regression
+===================
+
+              precision    recall  f1-score   support
+
+       World     0.8897    0.8826    0.8861      1900
+      Sports     0.8915    0.8947    0.8931      1900
+    Business     0.9578    0.9784    0.9680      1900
+    Sci/Tech     0.9277    0.9116    0.9196      1900
+
+    accuracy                         0.9168      7600
+   macro avg     0.9166    0.9168    0.9167      7600
+weighted avg     0.9166    0.9168    0.9167      7600

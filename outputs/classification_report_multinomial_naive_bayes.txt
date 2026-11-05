@@ -1,0 +1,13 @@
+Multinomial Naive Bayes
+=======================
+
+              precision    recall  f1-score   support
+
+       World     0.8809    0.8484    0.8643      1900
+      Sports     0.8663    0.8868    0.8765      1900
+    Business     0.9477    0.9832    0.9651      1900
+    Sci/Tech     0.9164    0.8942    0.9052      1900
+
+    accuracy                         0.9032      7600
+   macro avg     0.9028    0.9032    0.9028      7600
+weighted avg     0.9028    0.9032    0.9028      7600

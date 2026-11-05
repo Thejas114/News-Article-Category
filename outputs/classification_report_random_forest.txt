@@ -1,0 +1,13 @@
+Random Forest
+=============
+
+              precision    recall  f1-score   support
+
+       World     0.8603    0.8458    0.8530      1900
+      Sports     0.8707    0.8505    0.8605      1900
+    Business     0.9168    0.9689    0.9422      1900
+    Sci/Tech     0.9047    0.8895    0.8970      1900
+
+    accuracy                         0.8887      7600
+   macro avg     0.8881    0.8887    0.8882      7600
+weighted avg     0.8881    0.8887    0.8882      7600

@@ -1,0 +1,7 @@
+{
+  "best_model": "Logistic Regression",
+  "train_size": 120000,
+  "test_size": 7600,
+  "quick_mode": false,
+  "num_features": 20000
+}
